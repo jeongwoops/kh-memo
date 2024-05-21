@@ -1,0 +1,6 @@
+내일 할것.
+- PrivateGameInfo 의 대전기록 검색 부분
+  userNo로 접속해서 gameNo 역순으로 승리 or 패배 표시 
+  패배는 빨간색 배경 승리는 파란색 배경 
+  css 수정
+- api 건드려보기
