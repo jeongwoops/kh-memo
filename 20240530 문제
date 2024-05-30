@@ -1,6 +1,6 @@
 
 공지/게시판 글쓰기 
-- 작성자란에 자동으로 loginUser , readonly
+- 작성자란에 자동으로 loginUser , readonly -> 완료 했으나 "작성자: " 부분이 db에 같이들어감;
 - 작성일에 자동으로 sysdate , readonly
 
 내친구 정보열람시 
